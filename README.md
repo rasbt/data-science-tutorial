@@ -7,3 +7,4 @@ Code material for a data science tutorial in Python
 1. Exploratory Data Analysis [[Jupyter Notebook](code/eda.ipynb)]
 2. Summary Statistics [[Jupyter Notebook](code/summary-stats.ipynb)]
 3. Covariance and Correlation [[Jupyter Notebook](code/cov-corr.ipynb)]
+4. Probability Mass Functions [[Jupyter Notebook](code/pmf_1.ipynb)]
