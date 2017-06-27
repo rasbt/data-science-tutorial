@@ -9,3 +9,4 @@ Code material for a data science tutorial in Python
 3. Covariance and Correlation [[Jupyter Notebook](code/cov-corr.ipynb)]
 4. Probability Mass Functions [[Jupyter Notebook](code/pmf_1.ipynb)]
 5. Probability Density Functions [[Jupyter Notebook](code/pdf_1.ipynb)]
+6. Least-Squares Linear Regression [[Jupyter Notebook](code/linear-reqression-leastsquares.ipynb)]
