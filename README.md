@@ -11,3 +11,4 @@ Code material for a data science tutorial in Python
 5. Probability Density Functions [[Jupyter Notebook](code/pdf_1.ipynb)]
 6. Least-Squares Linear Regression [[Jupyter Notebook](code/linear-reqression-leastsquares.ipynb)]
 7. Bootstrapping (Nonparametric Inference) [[Jupyter Notebook](code/bootstrapping.ipynb)]
+8. Hypothesis Testing Introduction [[Jupyter Notebook](code/hypothesis-testing_1.ipynb)]
